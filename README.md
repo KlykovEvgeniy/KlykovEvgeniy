@@ -29,14 +29,11 @@
   <li>I'm currently working on eatly project👀</li>
 </ul>
 
-<div>
-  <img align="right" height="150" src="https://i.pinimg.com/originals/3c/99/31/3c99312b3e1bf81197f6f95848761b83.gif"  />
-  <picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KlykovEvgeniy/KlykovEvgeniy/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KlykovEvgeniy/KlykovEvgeniy/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/KlykovEvgeniy/KlykovEvgeniy/output/github-snake.svg" />
 </picture>
 
-</div>
 
 ###
