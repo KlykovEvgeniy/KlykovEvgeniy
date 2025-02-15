@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Evgeniy and I'm a teenager, from Russia!</h2>
+<h2 align="left">The projects are currently in development...</h2>
 
 ###
 
