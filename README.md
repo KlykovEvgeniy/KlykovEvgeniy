@@ -29,8 +29,8 @@
 <h2>About me:</h2>
 <ul>
   <li>I'm very cool man👍</li>
-  <li>I'm currently learning React👌</li>
-  <li>I'm currently working on eatly project👀</li>
+  <li>I'm currently learning Tailwind👌</li>
+  <li>I'm currently working on tweakful project👀</li>
 </ul>
 
  <picture>
