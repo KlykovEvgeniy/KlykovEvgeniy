@@ -33,7 +33,7 @@
 <ul>
   <li>I'm very cool man👍</li>
   <li>I'm currently learning Tailwind👌</li>
-  <li>I'm currently working on sneakMax project👀</li>
+  <li>I'm currently working on dudeShape project👀</li>
 </ul>
 
  <picture>
