@@ -32,7 +32,7 @@
 <h2>About me:</h2>
 <ul>
   <li>I'm very cool man👍</li>
-  <li>I'm currently learning Tailwind👌</li>
+  <li>I'm currently learning Bootstrap👌</li>
   <li>I'm currently working on dudeShape project👀</li>
 </ul>
 
