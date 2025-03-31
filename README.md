@@ -32,7 +32,7 @@
 <h2>About me:</h2>
 <ul>
   <li>I'm very cool man👍</li>
-  <li>I`m l learning TypeScript👌</li>
+  <li>I`m learning TypeScript👌</li>
   <li>I'm currently working on Robin.W project👀</li>
 </ul>
 
