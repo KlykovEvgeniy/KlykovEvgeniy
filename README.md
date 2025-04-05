@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="left" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -24,13 +24,22 @@
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="github  logo"  />
   <img width="12" />
-  
 </div>
+
+<div align='left'>
+
+###
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlykovEvgeniy)](https://github.com/KlykovEvgeniy/github-readme-stats)
+    
+</div>
+
+
 
 ###
 
-<h2>About me:</h2>
-<ul>
+<h2 align='left'>About me:</h2>
+<ul align='left'>
   <li>I'm very cool man👍</li>
   <li>I`m learning TypeScript👌</li>
   <li>I'm currently working on Robin.W project👀</li>
