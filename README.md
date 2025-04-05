@@ -23,7 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="github  logo"  />
-  <img width="12" />
+    <img width="12" />
+    <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg' height='30' alt='ts logo'/>
 </div>
 
 <div align='left'>
