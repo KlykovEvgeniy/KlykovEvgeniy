@@ -42,7 +42,7 @@
 <h2 align='left'>About me:</h2>
 <ul align='left'>
   <li>I'm very cool man👍</li>
-  <li>I`m learning TypeScript👌</li>
+  <li>I`m learning EsBuild👌</li>
   <li>I'm currently working on Robin.W project👀</li>
 </ul>
 
