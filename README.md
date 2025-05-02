@@ -43,7 +43,7 @@
 <ul align='left'>
   <li>I'm very cool man👍</li>
   <li>I`m learning Playwright👌</li>
-  <li>I'm currently working on Robin.W project👀</li>
+  <li>I'm currently working on dudeShape project👀</li>
 </ul>
 
  <picture>
