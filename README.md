@@ -15,7 +15,6 @@
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
-    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="webpack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -25,6 +24,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="github  logo"  />
     <img width="12" />
     <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg' height='30' alt='ts logo'/>
+    <img width="12" />
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/playwright/playwright-original.svg" height="30" alt="playwright logo" />
+    <img width="12" />
+    
 </div>
 
 <div align='left'>
