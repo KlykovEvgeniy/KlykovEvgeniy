@@ -36,7 +36,6 @@
 
 ###
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlykovEvgeniy)](https://github.com/KlykovEvgeniy/github-readme-stats)
     
 </div>
 
@@ -45,11 +44,11 @@
 ###
 
 <h2 align='left'>About me:</h2>
-<ul align='left'>
-  <li>I'm very cool man👍</li>
-  <li>I`m learning Playwright👌</li>
-  <li>I'm currently working on dudeShape project👀</li>
-</ul>
+<div align='left'>
+  <p>I'm very cool man👍</p>
+  <p>I`m learning Playwright👌</p>
+  <p>I'm currently working on dudeShape project👀</p>
+</div>
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KlykovEvgeniy/KlykovEvgeniy/output/github-snake-dark.svg" />
