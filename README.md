@@ -27,8 +27,6 @@
     <img width="12" />
     <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg' height='30' alt='ts logo'/>
     <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/playwright/playwright-original.svg" height="30" alt="playwright logo" />
-    <img width="12" />
     
 </div>
 
