@@ -27,6 +27,8 @@
     <img width="12" />
     <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg' height='30' alt='ts logo'/>
     <img width="12" />
+    <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg' height='30' alt='node logo' />
+    <img width='12'/>
     
 </div>
 
