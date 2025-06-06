@@ -44,8 +44,8 @@
 <h2 align='left'>About me:</h2>
 <div align='left'>
   <p>I'm very cool man👍</p>
-  <p>I`m learning Astro👌</p>
-  <p>I'm currently working on Astro project👀</p>
+  <p>I`m learning NodeJs👌</p>
+  <p>I'm currently working on my portfolio projects👀</p>
 </div>
 
  <picture>
