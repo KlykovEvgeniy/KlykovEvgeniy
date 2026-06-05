@@ -42,14 +42,6 @@
 
 
 ###
-
-<h2 align='left'>About me:</h2>
-<div align='left'>
-  <p>I'm very cool man👍</p>
-  <p>I`m learning NodeJs👌</p>
-  <p>I'm currently working on my portfolio projects👀</p>
-</div>
-
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KlykovEvgeniy/KlykovEvgeniy/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KlykovEvgeniy/KlykovEvgeniy/output/github-snake.svg" />
